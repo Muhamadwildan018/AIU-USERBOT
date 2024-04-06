@@ -1,22 +1,22 @@
 ----
 <p align="center">
   <img src="https://github.com/JIYOXC/AIU-USERBOT/blob/main/resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
-</p>
+</p> 
 <h1 align="center">
-  <b>💠ᴀɪᴜ ꭙ ᴜꜱᴇʀʙᴏᴛ💠</b>
+  <b>💠ᴅᴀɴ ꭙ ᴜꜱᴇʀʙᴏᴛ💠</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
 
 [![](https://img.shields.io/badge/AIU-v1.0-crimson)](#)
-[![Stars](https://img.shields.io/github/stars/JIYOXC/AIU-USERBOT?style=flat-square&color=yellow)](https://github.com/JIYOXC/AIU-USERBOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/JIYOXC/AIU-USERBOT?style=flat-square&color=orange)](https://github.com/JIYOXC/AIU-USERBOTd/fork)
-[![Size](https://img.shields.io/github/repo-size/JIYOXC/AIU-USERBOT?style=flat-square&color=green)](https://github.com/JIYOXC/AIU-USERBOT/)   
+[![Stars](https://img.shields.io/github/stars/Muhamadwildan018/AIU-USERBOT?style=flat-square&color=yellow)](https://github.com/Muhamadwildan018/AIU-USERBOT/stargazers)
+[![Forks](https://img.shields.io/github/forks/JIYOXC/AIU-USERBOT?style=flat-square&color=orange)](https://github.com/Muhamadwildan018/AIU-USERBOTd/fork)
+[![Size](https://img.shields.io/github/repo-size/Muhamadwildan018/AIU-USERBOT?style=flat-square&color=green)](https://github.com/Muhamadwildan018/AIU-USERBOT/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.3-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JIYOXC/AIU-USERBOT/graphs/commit-activity)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/JIYOXC/AIU-USERBOT)
-[![Contributors](https://img.shields.io/github/contributors/JIYOXC/AIU-USERBOT?style=flat-square&color=green)](https://github.com/JIYOXC/AIU-USERBOT/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/JIYOXC/AIU-USERBOT/blob/main/LICENSE)   
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Muhamadwildan018/AIU-USERBOT/graphs/commit-activity)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Muhamadwildan018/AIU-USERBOT)
+[![Contributors](https://img.shields.io/github/contributors/Muhamadwildan018/AIU-USERBOT?style=flat-square&color=green)](https://github.com/Muhamadwildan018/AIU-USERBOT/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Muhamadwildan018/AIU-USERBOT/blob/main/LICENSE)   
 
 ----
 
@@ -28,16 +28,16 @@
     💠「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」💠
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/JIYOXC/AIU-USERBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Muhamadwildan018/AIU-USERBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ----
 
 💠 VPS DEPLOY 
-- Get your [Necessary Variables](https://github.com/JIYOXC/AIU-USERBOT/blob/main/.env.sample)
+- Get your [Necessary Variables](https://github.com/Muhamadwildan018/AIU-USERBOT/blob/main/.env.sample)
 
 - Clone the repository:    
 
-  • `git clone https://github.com/JIYOXC/AIU-USERBOT`
+  • `git clone https://github.com/Muhamadwildan018/AIU-USERBOT`
 
 - Go to the cloned folder:    
 
